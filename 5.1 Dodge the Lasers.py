@@ -120,7 +120,3 @@ def answer(str_n):
     
     # change to string before outputting
     return str(sumBeatty(n, sqrt2))
-    
-# CFMWHRUKC10cS1NVTlQTFw0XHUkCT0sQAAIfEQQPAwxJDlVMVAodBxEABRMNSQJPSxYJCBwGERtR 
-# SVQOSAUdDBwWEAwKGgxJAk9LEgwGGhETDRsMAFpITElPSQYaCQcVAgtKSEBTSBwSFgcBAhpJDlVM 
-# VBwPFRFCRFZOCEEAS1NVTlQDDAZXThM=
